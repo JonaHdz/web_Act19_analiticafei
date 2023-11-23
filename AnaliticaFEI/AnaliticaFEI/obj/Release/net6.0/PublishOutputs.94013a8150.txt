@@ -1,0 +1,7 @@
+C:\Users\jon10\Desktop\AnaliticaFEI\AnaliticaFEI\bin\Release\net6.0\publish\AnaliticaFEI.exe
+C:\Users\jon10\Desktop\AnaliticaFEI\AnaliticaFEI\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\jon10\Desktop\AnaliticaFEI\AnaliticaFEI\bin\Release\net6.0\publish\appsettings.json
+C:\Users\jon10\Desktop\AnaliticaFEI\AnaliticaFEI\bin\Release\net6.0\publish\AnaliticaFEI.dll
+C:\Users\jon10\Desktop\AnaliticaFEI\AnaliticaFEI\bin\Release\net6.0\publish\AnaliticaFEI.deps.json
+C:\Users\jon10\Desktop\AnaliticaFEI\AnaliticaFEI\bin\Release\net6.0\publish\AnaliticaFEI.runtimeconfig.json
+C:\Users\jon10\Desktop\AnaliticaFEI\AnaliticaFEI\bin\Release\net6.0\publish\AnaliticaFEI.pdb
